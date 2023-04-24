@@ -1,0 +1,3 @@
+[submodule "weekaway-react-tailwind"]
+	path = weekaway-react-tailwind
+	url = https://github.com/fireclint/weekaway-react-tailwind.git
